@@ -1,3 +1,2 @@
-function add(a,b){
-    return a+b;
-}
+let ele = document.getElementById('child');
+console.log(ele);
